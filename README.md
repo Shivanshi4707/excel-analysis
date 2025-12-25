@@ -1,3 +1,6 @@
+<img width="1864" height="517" alt="Screenshot 2025-12-25 213554" src="https://github.com/user-attachments/assets/9ed27f1d-f36c-4ed5-9894-6181420573aa" />
+<img width="1169" height="545" alt="Screenshot 2025-12-25 212901" src="https://github.com/user-attachments/assets/c963301c-02f0-400d-a3d2-d7f28b5b2bc0" />
+<img width="1024" height="618" alt="Screenshot 2025-12-25 212814" src="https://github.com/user-attachments/assets/13a79242-2bb5-4302-ad1f-e838edc993c0" />
 ABOUT THE PROJECT:
 The project involved a comparative analysis of different cities in India based on various cuisine styles, such as Bakery, Chinese, Italian, North Indian, South Indian, etc, delivery time between interstate cities like Mumbai and Pune, as well as the mode of payment used for the delivery of the food items. 
 The analysis was made using pivot tables and slicers, followed by different graphs like column charts, pie chart, bar chart and sunburst chart.
